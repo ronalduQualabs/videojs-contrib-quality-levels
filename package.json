@@ -64,7 +64,7 @@
     "test/"
   ],
   "dependencies": {
-    "global": "^4.4.0"
+    "videojs-global-compat": "^1.0.1"
   },
   "peerDependencies": {
     "video.js": "^8"
