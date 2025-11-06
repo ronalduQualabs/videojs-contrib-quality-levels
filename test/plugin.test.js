@@ -1,4 +1,4 @@
-import document from 'videojs-global-compat/document';
+import document from '@videojs/global-compat/document';
 import QUnit from 'qunit';
 import sinon from 'sinon';
 import videojs from 'video.js';
